@@ -2,7 +2,7 @@
 
 ## About the sample
 
-This sample illustrates how to skip the sorting when group the columns in WPF DataGrid.
+This sample illustrates how to skip the sorting when group the columns in UWP DataGrid.
 
 By default, SfDataGrid groups a column in the sorted order. However, you can group a specific column in the actual order without sorting the groups in SfDataGrid by removing the grouped column from the SfDataGrid.View.SortDescriptions.
 
