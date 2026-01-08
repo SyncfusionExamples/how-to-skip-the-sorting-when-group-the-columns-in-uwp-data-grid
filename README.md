@@ -1,4 +1,4 @@
-# How to Skip the Sorting When Group the Columns in WPF DataGrid?
+# How to Skip the Sorting When Group the Columns in UWP DataGrid?
 
 This sample illustrates how to skip the sorting when group the columns in [UWP DataGrid](https://www.syncfusion.com/uwp-ui-controls/datagrid) (SfDataGrid).
 
